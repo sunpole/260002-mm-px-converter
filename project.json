@@ -1,0 +1,13 @@
+{
+  "id": "002",
+  "slug": "mm-px-converter",
+  "name": "Конвертер мм и пикселей",
+  "version": "0.1.0",
+  "visibility": "public",
+  "repository": "https://github.com/sunpole/002-mm-px-converter",
+  "pages": "https://sunpole.github.io/002-mm-px-converter/",
+  "legacySource": "https://github.com/sunpole/stilist/tree/main/350",
+  "legacyPath": "C:\\!CODE_CLUB\\stilist\\350",
+  "screenshot": "screenshot-2026-09-18.png",
+  "status": "prepared-for-publication"
+}
