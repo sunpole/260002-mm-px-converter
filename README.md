@@ -6,8 +6,8 @@
 
 ## Ссылки
 
-- Публичная страница: `https://sunpole.github.io/002-mm-px-converter/`
-- Исходный код: `https://github.com/sunpole/002-mm-px-converter`
+- Публичная страница: `https://sunpole.github.io/260002-mm-px-converter/`
+- Исходный код: `https://github.com/sunpole/260002-mm-px-converter`
 - Карточка в SUNPOLE HUB: будет добавлена после проверки опубликованной страницы.
 
 ## Запуск
@@ -17,7 +17,7 @@
 
 ## Версия
 
-Текущая версия — `0.1.0`. История изменений ведётся в `CHANGELOG.md`.
+Текущая версия — `0.1.1`. История изменений ведётся в `CHANGELOG.md`.
 
 ## Состав
 
